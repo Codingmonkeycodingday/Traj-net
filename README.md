@@ -1,0 +1,2 @@
+requirement:
+numpy,torch,pygtrie
